@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/may54ther/rustdesk-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/may54ther/rustdesk-server.git
+[submodule "hbb_common"]
+	path = hbb_common
+	url = https://github.com/may54ther/hbb_common.git
